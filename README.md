@@ -1,4 +1,12 @@
-## Hi there 👋
+## :wave: Hello!!! (ง'-')-๑
+
+- :computer: I’m currently working as Full-Stack Developer
+
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nextjs,tailwind,nestjs,postgresql" />
+  </a>
+</p>
 
 <!--
 **Marmexus/Marmexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
